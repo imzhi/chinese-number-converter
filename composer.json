@@ -1,0 +1,15 @@
+{
+    "name": "imzhi/chinese_number_convertor",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "imzhi",
+            "email": "yxz_blue@126.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "minimum-stability": "dev"
+}
